@@ -68,7 +68,7 @@
 </p>
 </br>
 <hr>
- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakarialaoui10&theme=tokyonight"/>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbek-dev&theme=tokyonight"/>
  <img src="https://github-readme-stats.vercel.app/api?username=zakarialaoui10&hide=contribs,prs&theme=tokyonight"/>       
 </p>  
 <!-- <p>
