@@ -69,7 +69,7 @@
 </br>
 <hr>
  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbek-dev&theme=tokyonight"/>
- <img src="https://github-readme-stats.vercel.app/api?username=zakarialaoui10&hide=contribs,prs&theme=tokyonight"/>       
+ <img src="https://github-readme-stats.vercel.app/api?username=asadbek-dev&hide=contribs,prs&theme=tokyonight"/>       
 </p>  
 <!-- <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asadbek-Dev&show_icons=true&locale=en&layout=compact" alt="asadbek-dev" />
