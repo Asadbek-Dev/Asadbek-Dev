@@ -2,20 +2,12 @@
 <h3 align="center">Web developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asadbek-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Asadbek-Dev" /> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/akhmadjon17" target="blank"><img src="https://img.shields.io/twitter/follow/akhmadjon17?logo=twitter&style=for-the-badge" alt="akhmadjon17" /></a> </p>
- -->
-<!-- - 🔭 I’m currently working at **[EPAM](https://www.epam.com/)** -->
  
 - 🌱 I’m currently learning  **Nodejs**
-
-<!-- - 👨‍💻 All of my projects are available at [ahmadjon.uz](https://ahmadjon.uz) -->
 
 - 💬 Ask me about **JavaScript, Reactjs,Redux**
 
 - 📫 How to reach me **asadbek.dev1101@gmail.com**
-
-<!-- - 📄 Know about my experiences [https://ahmadjon.uz/cv-en.pdf](https://ahmadjon.uz/cv-en.pdf) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
