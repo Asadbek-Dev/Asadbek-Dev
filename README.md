@@ -4,10 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asadbek-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Asadbek-Dev" /> </p>
  
 - 🌱 I’m currently learning  **Nodejs**
+- 👨‍💻 All of my projects are available at [asadbek.uz](https://asadbek-dev.netlify.app)
 
 - 💬 Ask me about **JavaScript, Reactjs,Redux**
 
 - 📫 How to reach me **asadbek.dev1101@gmail.com**
+- 📄 Know about my experiences [asadbek.uz/cv.pdf](https://asadbek-dev.netlify.app/cv/Asadbeks_Resume%20(5).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
