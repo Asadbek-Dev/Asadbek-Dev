@@ -69,5 +69,6 @@
 </br>
 </br>
 
-<div style='display:flex'><p><img  style="margin:15px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asadbek-Dev&show_icons=true&locale=en&layout=compact" alt="asadbek-dev" /></p>
+<div style='display:flex'><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asadbek-Dev&show_icons=true&locale=en&layout=compact" alt="asadbek-dev" /></p>
+ </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadbek-dev&show_icons=true&locale=en" alt="asadbek-dev" /></p></div>
