@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/sobirov-asadbek-b8a3b2203/" target="blank"><img align="center" bgcolor='white' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/in/sobirov-asadbek-b8a3b2203/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/sobirov-asadbek-b8a3b2203/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/in/sobirov-asadbek-b8a3b2203/" height="30" width="40" /></a>
 <a href="https://fb.com/asadbek.sobirov.9847" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="asadbek.sobirov.9847" height="30" width="40" /></a>
 <a href="https://instagram.com/__sob1rov__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__sob1rov__" height="30" width="40" /></a>
 <a href="https://t.me/c/asadbek11_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="asadbek11_01" height="30" width="40" /></a>
