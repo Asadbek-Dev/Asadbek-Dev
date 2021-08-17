@@ -68,11 +68,13 @@
 </p>
 </br>
 <hr>
-
-<p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakarialaoui10&theme=tokyonight"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=zakarialaoui10&hide=contribs,prs&theme=tokyonight"/>       
+</p>  
+<!-- <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asadbek-Dev&show_icons=true&locale=en&layout=compact" alt="asadbek-dev" />
 </p>
 
 <p>
  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadbek-dev&show_icons=true&locale=en" alt="asadbek-dev" />
-</p>
+</p> -->
