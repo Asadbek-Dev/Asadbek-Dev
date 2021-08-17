@@ -35,5 +35,5 @@
 
 
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadbek-dev&show_icons=true&locale=en" alt="asadbek-dev" /></p>
- -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadbek-dev&show_icons=true&locale=en" alt="asadbek-dev" /></p>
+
