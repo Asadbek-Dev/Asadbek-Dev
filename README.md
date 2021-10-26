@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning  **Node.js**
 - 👨‍💻 Some of my projects are available at [asadbek.uz](https://asadbek-dev.netlify.app)
 
-- 💬 Ask me about **JavaScript, React.js,Redux**
+- 💬 Ask me about **JavaScript, React.js, Redux, React Native**
 
 - 📫 How to reach me **asadbek.dev1101@gmail.com**
 - 📄 Know about my experiences [asadbek.uz/cv.pdf](https://asadbek-dev.netlify.app/cv/Asadbeks_Resume%20(5).pdf)
