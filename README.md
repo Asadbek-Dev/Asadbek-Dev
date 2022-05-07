@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asadbek-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Asadbek-Dev" /> </p>
  
-- 🌱 I’m currently learning  **SQL**
+- 🌱 I’m currently learning  **MYSQL**
 - 👨‍💻 Some of my projects are available at [asadbek.uz](https://asadbek-dev.netlify.app)
 
 - 💬 Ask me about **JavaScript, React.js, Node.js, Redux, React Native**
