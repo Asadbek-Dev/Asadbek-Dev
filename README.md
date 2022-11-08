@@ -20,8 +20,8 @@
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="asadbek.sobirov.9847" height="30" width="40" />
  </a>
  
-<a href="https://instagram.com/__sob1rov__" target="_blank">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__sob1rov__" height="30" width="40" />
+<a href="https://instagram.com/sob1rov11" target="_blank">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sob1rov11" height="30" width="40" />
 </a>
  
 <a href="https://t.me/c/asadbek11_01" target="_blank">
