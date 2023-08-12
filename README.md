@@ -20,7 +20,7 @@
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="asadbek.sobirov.9847" height="30" width="40" />
  </a>
  
-<a href="https://instagram.com/sob1rov11" target="_blank">
+<a href="https://instagram.com/sobirov.js" target="_blank">
  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sob1rov11" height="30" width="40" />
 </a>
  
