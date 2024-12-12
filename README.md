@@ -1,12 +1,12 @@
 <h1 align="center">Hi , I'm Asadbek Sobirov</h1>
-<h3 align="center">Web developer </h3>
+<h3 align="center">Data Scientist and Web developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asadbek-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Asadbek-Dev" /> </p>
  
-- 🌱 I’m currently learning  **Typescript**
+- 🌱 I’m currently learning  **ML**
 - 👨‍💻 Some of my projects are available at [asadbek.uz](https://asadbek-dev.netlify.app)
 
-- 💬 Ask me about **JavaScript, React.js, Node.js, Redux, React Native,MYSQL**
+- 💬 Ask me about **Python, JavaScript, React.js, Node.js, Redux, React Native,MYSQL**
 
 - 📫 How to reach me **asadbek.dev1101@gmail.com**
 - 📄 Know about my experiences [asadbek.uz/cv.pdf](https://asadbek-dev.netlify.app/cv/Asadbeks_Resume%20(5).pdf)
